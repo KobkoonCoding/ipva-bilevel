@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "upload_type": "software",
   "license": "MIT",
-  "description": "Code and stored results that reproduce the numerical experiments of the paper 'Strong convergence of an inertial proximal gradient method for convex bilevel optimization with nonsmooth objectives' by Kobkoon Janngam and Suthep Suantai. The scripts regenerate Tables 1 and 2 and Figures 1 and 2 of the paper (image inpainting) and check every number quoted in its section 4.",
+  "description": "Code and stored results that reproduce the numerical experiments of the paper 'Strong convergence of an inertial proximal gradient method for convex bilevel optimization with nonsmooth objectives' by Kobkoon Janngam, Sayaphat Suksai, and Suthep Suantai. The scripts regenerate Tables 1 and 2 and Figures 1 and 2 of the paper (image inpainting) and check every number quoted in its section 4.",
   "creators": [
     {
       "name": "Janngam, Kobkoon",
       "affiliation": "Department of Mathematics, Faculty of Science, and Office of Research Administration, Chiang Mai University",
       "orcid": "0009-0003-9196-5018"
+    },
+    {
+      "name": "Suksai, Sayaphat",
+      "affiliation": "Department of Mathematics, Faculty of Science, Srinakharinwirot University"
     },
     {
       "name": "Suantai, Suthep",

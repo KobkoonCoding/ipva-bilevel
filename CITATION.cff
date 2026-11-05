@@ -13,6 +13,10 @@ authors:
     email: kobkoon.j@cmu.ac.th
     affiliation: "Department of Mathematics, Faculty of Science, and Office of Research Administration, Chiang Mai University"
     orcid: "https://orcid.org/0009-0003-9196-5018"
+  - family-names: Suksai
+    given-names: Sayaphat
+    email: sayaphat@g.swu.ac.th
+    affiliation: "Department of Mathematics, Faculty of Science, Srinakharinwirot University"
   - family-names: Suantai
     given-names: Suthep
     email: suthep.s@cmu.ac.th
@@ -33,6 +37,8 @@ preferred-citation:
     - family-names: Janngam
       given-names: Kobkoon
       orcid: "https://orcid.org/0009-0003-9196-5018"
+    - family-names: Suksai
+      given-names: Sayaphat
     - family-names: Suantai
       given-names: Suthep
       orcid: "https://orcid.org/0000-0002-4478-1422"

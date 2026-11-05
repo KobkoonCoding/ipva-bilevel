@@ -2,7 +2,7 @@
 
 Code and stored results for the paper
 
-> Kobkoon Janngam and Suthep Suantai, *Strong convergence of an inertial proximal gradient method for convex bilevel optimization with nonsmooth objectives*.
+> Kobkoon Janngam, Sayaphat Suksai, and Suthep Suantai, *Strong convergence of an inertial proximal gradient method for convex bilevel optimization with nonsmooth objectives*.
 
 The paper proposes IPVA, the Inertial Proximal Gradient Algorithm with Vanishing Step Sizes. IPVA and the five compared methods are implemented in `reproduce/methods.py`. The package `bilevel/` holds the operators, the problem definition, and the ADMM solver for the reference solutions.
 
@@ -75,8 +75,8 @@ CVXPY and Clarabel are not needed for the experiment, and they are not in `requi
 
 Please cite the paper and the archived code:
 
-- K. Janngam and S. Suantai, *Strong convergence of an inertial proximal gradient method for convex bilevel optimization with nonsmooth objectives*, submitted to SIAM Journal on Optimization.
-- K. Janngam and S. Suantai, *ipva-bilevel*, version 1.0.0, Zenodo, 2026, DOI: 10.5281/zenodo.23972283.
+- K. Janngam, S. Suksai, and S. Suantai, *Strong convergence of an inertial proximal gradient method for convex bilevel optimization with nonsmooth objectives*, submitted to SIAM Journal on Optimization.
+- K. Janngam, S. Suksai, and S. Suantai, *ipva-bilevel*, version 1.0.0, Zenodo, 2026, DOI: 10.5281/zenodo.23972283.
 
 ## License
 
