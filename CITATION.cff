@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper and the archived code."
+title: "ipva-bilevel: code and data for 'Strong convergence of an inertial proximal gradient method for convex bilevel optimization with nonsmooth objectives'"
+version: 1.0.0
+date-released: 2026-11-05
+type: software
+license: MIT
+authors:
+  - family-names: Janngam
+    given-names: Kobkoon
+    email: kobkoon.j@cmu.ac.th
+    affiliation: "Department of Mathematics, Faculty of Science, and Office of Research Administration, Chiang Mai University"
+    orcid: "https://orcid.org/0009-0003-9196-5018"
+  - family-names: Suantai
+    given-names: Suthep
+    email: suthep.s@cmu.ac.th
+    affiliation: "Research Center in Optimization and Computational Intelligence for Big Data Prediction, Department of Mathematics, Faculty of Science, Chiang Mai University"
+    orcid: "https://orcid.org/0000-0002-4478-1422"
+keywords:
+  - convex bilevel optimization
+  - proximal gradient
+  - inertial method
+  - image inpainting
+  - Python
+preferred-citation:
+  type: article
+  title: "Strong convergence of an inertial proximal gradient method for convex bilevel optimization with nonsmooth objectives"
+  journal: "SIAM Journal on Optimization"
+  status: submitted
+  authors:
+    - family-names: Janngam
+      given-names: Kobkoon
+      orcid: "https://orcid.org/0009-0003-9196-5018"
+    - family-names: Suantai
+      given-names: Suthep
+      orcid: "https://orcid.org/0000-0002-4478-1422"
