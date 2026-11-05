@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the paper and the archived code."
 title: "ipva-bilevel: code and data for 'Strong convergence of an inertial proximal gradient method for convex bilevel optimization with nonsmooth objectives'"
 version: 1.0.0
-doi: 10.5281/zenodo.23972283
+doi: 10.5281/zenodo.23972282
 repository-code: "https://github.com/KobkoonCoding/ipva-bilevel"
 date-released: 2026-11-05
 type: software

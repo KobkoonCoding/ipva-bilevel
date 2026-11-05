@@ -76,7 +76,7 @@ CVXPY and Clarabel are not needed for the experiment, and they are not in `requi
 Please cite the paper and the archived code:
 
 - K. Janngam, S. Suksai, and S. Suantai, *Strong convergence of an inertial proximal gradient method for convex bilevel optimization with nonsmooth objectives*, submitted to SIAM Journal on Optimization.
-- K. Janngam, S. Suksai, and S. Suantai, *ipva-bilevel*, version 1.0.0, Zenodo, 2026, DOI: 10.5281/zenodo.23972283.
+- K. Janngam, S. Suksai, and S. Suantai, *ipva-bilevel*, Zenodo, 2026, DOI: 10.5281/zenodo.23972282.
 
 ## License
 
